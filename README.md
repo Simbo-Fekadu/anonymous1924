@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymous1924" alt="anonymous1924" /></a> </p>
 
-- 🔭 I’m currently working on **MERN-Estate project**
+- 🔭 I’m currently working on **Music website**
 
 - 🌱 I’m currently learning **Node,**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **simbofekadu2629@gmail.com**
 
-- ⚡ Fun fact **I love coding**
+- ⚡ Fun fact **I love when it all works out**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
