@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **MERN stack projects**
 
-- 💬 Ask me about **react,python**
+- 💬 Ask me about **react,python,Javascript**
 
 - 📫 How to reach me **simbofekadu2629@gmail.com**
 
