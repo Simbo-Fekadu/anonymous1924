@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Simbo Fekadu</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Simbo-Fekadu&label=Profile%20views&color=0e75b6&style=flat" alt="anonymous1924" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Simbo-Fekadu&label=Profile%20views&color=0e75b6&style=flat" alt="simbo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymous1924" alt="anonymous1924" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Simbo-Fekadu" alt="anonymous1924" /></a> </p>
 
 - 🔭 I’m currently working on **Music website**
 
